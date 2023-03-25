@@ -1,2 +1,2 @@
 # metacrafter
- smart contract for metacrafter cpurse
+ smart contract for metacrafter course
